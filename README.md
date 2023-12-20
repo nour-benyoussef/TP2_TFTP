@@ -3,6 +3,7 @@
 
 # Question 1 GETTFTP
 Ce code implémente le protocole TFTP (Trivial File Transfer Protocol) pour envoyer des données d'un serveur à un client. Voici comment il fonctionne :
+
      1/Paramètres d'entrée :
        Le programme prend en paramètres d'entrée l'adresse IP du serveur et le nom du fichier à récupérer.
 
